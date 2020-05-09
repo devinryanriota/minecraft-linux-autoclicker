@@ -16,3 +16,4 @@ for pid in $pids; do
     # Stop looping
     break
   fi
+done
